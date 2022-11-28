@@ -1,4 +1,4 @@
-# Friend-link-prediction
+# Friend-link-prediction  (Social network Graph Link Prediction)
 
 [Competion Link](https://www.kaggle.com/c/FacebookRecruiting)
 
